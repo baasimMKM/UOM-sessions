@@ -1,8 +1,1 @@
-test
-# check remotes and current branch
-git remote -v
-git branch --show-current
 
-# fetch and pull (replace main with your branch name if needed)
-git fetch
-git pull origin mainvrvtrv+
